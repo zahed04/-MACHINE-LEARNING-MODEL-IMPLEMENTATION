@@ -88,4 +88,6 @@ sklearn.metrics	Model evaluation using accuracy, confusion matrix, etc.
 This code provides a simple yet powerful demonstration of how spam messages can be detected using machine learning. By combining text processing with the Naive Bayes algorithm and performance evaluation, it builds a real-world application capable of automatically classifying messages.
 
 
+OUTPUT:
 
+<img width="638" height="90" alt="Image" src="https://github.com/user-attachments/assets/94567b9f-ffd8-4c20-9dc6-31605feca4b8" />
